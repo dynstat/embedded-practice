@@ -1,0 +1,4 @@
+/home/xs/CodePractice/vsCode/C/linkerPrac/build/CMakeFiles/rebuild_cache.dir
+/home/xs/CodePractice/vsCode/C/linkerPrac/build/CMakeFiles/edit_cache.dir
+/home/xs/CodePractice/vsCode/C/linkerPrac/build/CMakeFiles/thetools.dir
+/home/xs/CodePractice/vsCode/C/linkerPrac/build/CMakeFiles/themain.dir
