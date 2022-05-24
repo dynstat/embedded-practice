@@ -1,1 +1,0 @@
-/usr/bin/g++    -rdynamic CMakeFiles/themain.dir/mymain.cpp.o  -o themain  libthetools.a 

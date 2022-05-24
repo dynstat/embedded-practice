@@ -1,4 +1,4 @@
-/home/xs/CodePractice/vsCode/C/linkerPrac/build/CMakeFiles/rebuild_cache.dir
-/home/xs/CodePractice/vsCode/C/linkerPrac/build/CMakeFiles/edit_cache.dir
-/home/xs/CodePractice/vsCode/C/linkerPrac/build/CMakeFiles/thetools.dir
-/home/xs/CodePractice/vsCode/C/linkerPrac/build/CMakeFiles/themain.dir
+D:/modern_c++/cpp-practice-git/linkerPrac/build/CMakeFiles/themain.dir
+D:/modern_c++/cpp-practice-git/linkerPrac/build/CMakeFiles/thetools.dir
+D:/modern_c++/cpp-practice-git/linkerPrac/build/CMakeFiles/ALL_BUILD.dir
+D:/modern_c++/cpp-practice-git/linkerPrac/build/CMakeFiles/ZERO_CHECK.dir

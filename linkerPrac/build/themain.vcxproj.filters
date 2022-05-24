@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\modern_c++\cpp-practice-git\linkerPrac\mymain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\modern_c++\cpp-practice-git\linkerPrac\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F50FBBBD-1DB4-351E-96A6-C87F9AA6DAED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

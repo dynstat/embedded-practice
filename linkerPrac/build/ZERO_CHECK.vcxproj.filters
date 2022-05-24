@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\modern_c++\cpp-practice-git\linkerPrac\build\CMakeFiles\10744913c24edd3818cba17518230deb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ABB468CD-A05A-31A2-AEE0-9ECBE957CB00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
