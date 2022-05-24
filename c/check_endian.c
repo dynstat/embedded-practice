@@ -2,16 +2,16 @@
 int main()
 {
     unsigned int x = 0x76543210;
-    char *c = (char *)&x;
+    int *c = (int *)&x;
 
-    printf("*c is: 0x%x\n", *c);
-    if (*c == 0x10)
+    printf("*c is: 0x%X\n", *c); // %X or %x is the format specifier to print in hex
+    if (*c == 0x10)              // if (*c == 16) would mean the same
     {
-        printf("Underlying architecture is little endian. \n");
+        printf("little endian. \n");
     }
     else
     {
-        printf("Underlying architecture is big endian. \n");
+        printf("big endian. \n");
     }
 
     return 0;
